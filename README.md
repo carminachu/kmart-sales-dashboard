@@ -26,4 +26,31 @@ The goal was to **transform raw Kmart sales data into an interactive and insight
 
 ## 🔑 Key Features & Techniques Used  
 - **PivotTables** – Summarized and analyzed sales data by **date, state, suburb, category, type, manager, and customers**.  
-- **PivotCharts** – Visual companions to PivotTables for easier
+- **PivotCharts** – Visual companions to PivotTables for easier **trend interpretation**.  
+- **Dynamic KPIs** – Built using Excel formulas/functions to track **sales and business metrics**.  
+- **GETPIVOTDATA** – Extracted specific values from PivotTables for KPI calculations.  
+- **INDEX + MATCH + IFERROR** – Created **flexible, error-proof lookups** for retrieving sales data.  
+- **Slicers** – Enabled one-click **interactive filtering** by region, category, or time period.  
+- **Sparklines** – Embedded mini-charts for quick trend visualization within cells.  
+
+---
+
+## 🎯 Outcome  
+The final **Kmart Sales Dashboard** provides:  
+✅ A user-friendly and interactive reporting interface  
+✅ Quick insights into **sales performance, product trends, and regional breakdowns**  
+✅ Faster and more effective **data-driven decision-making**  
+
+---
+
+## 🚀 Installation & Usage  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/Kmart-Sales-Dashboard.git
+2. Open Kmart Sales Dashboard.xlsx in Microsoft Excel (2016 or later recommended).
+3. Use slicers, filters, and charts to interact with the data.
+---
+## 🔮 Future Improvements
+- Automate data refresh using Power Query
+- Add advanced KPIs (e.g., YoY Growth, Customer Segmentation)
+- Extend dashboard to Power BI for enhanced interactivity
