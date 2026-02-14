@@ -5,6 +5,7 @@ This project involves the design and development of an **interactive Excel-based
 
 The goal was to **transform raw Kmart sales data into an interactive and insightful report**, enabling stakeholders to analyze performance trends, identify top-performing products, and make informed decisions.  
 
+<img width="1505" height="562" alt="Kmart sales dashboard" src="https://github.com/user-attachments/assets/94f38715-a42f-482b-8392-2ae0b24076b4" />
 
 ## 📌 Deep Dive Analysis
 
